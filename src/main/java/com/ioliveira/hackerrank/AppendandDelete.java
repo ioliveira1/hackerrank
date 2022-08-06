@@ -33,12 +33,6 @@ public class AppendandDelete {
     }
 
     public static void main(String[] args) {
-        //hackerhappy
-        //hackerrank
-
-        //System.out.println(appendAndDelete("hackerhappy", "hackerrank", 9));
-        //System.out.println(appendAndDelete("aaaaaaaaaa", "aaaaa", 7));
-        //System.out.println(appendAndDelete("abcdef", "fedcba", 15));
         System.out.println(appendAndDelete("aaa", "a", 5));
     }
 }

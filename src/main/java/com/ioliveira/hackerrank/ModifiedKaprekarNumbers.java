@@ -31,6 +31,6 @@ public class ModifiedKaprekarNumbers {
     }
 
     public static void main(String[] args) {
-        kaprekarNumbers(100, 300);//1 9 45 55 99 297 703 999 2223 2728 4950 5050 7272 7777 9999 17344 22222 77778 82656 95121 99999
+        kaprekarNumbers(100, 300);
     }
 }
